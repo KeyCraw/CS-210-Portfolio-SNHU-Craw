@@ -16,7 +16,7 @@ Browse through the folders to view my C++ source code and lab work. Each file in
 ## Reflection
 1. Project Summary
 
-This project focused on solving the problem of tracking and analyzing grocery store purchases. It reads a list of items from a file, counts how many times each item appears, and helps the user quickly find information about item frequencies. It’s a small but useful tool that automates what would otherwise be a time-consuming process.
+The project I selcted to showcase (Project Three: Corner Grocer Item Frequency Tracker), focused on solving the problem of tracking and analyzing grocery store purchases. It reads a list of items from a file, counts how many times each item appears, and helps the user quickly find information about item frequencies. It’s a small but useful tool that automates what would otherwise be a time-consuming process.
 
 2. What I Did Well
 
